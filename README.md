@@ -1,9 +1,9 @@
 
 # Harvard CS50 Python Problem Sets
 
-Bem-vindo ao repositório Harvard CS50 Python Problem Sets! Este repositório contém minhas soluções para os conjuntos de problemas do CS50's Introduction to Computer Science using Python. Sendo esse curso oferecido pela Universidade de Harvard através da edX.
+Welcome to the Harvard CS50 Python Problem Sets repository! This repository contains my solutions to problem sets from CS50's Introduction to Computer Science using Python. This course is offered by Harvard University through edX.
 
-# Informação do Curso
+# Course information
 
 + **Course Name:** CS50’s Introduction to Programming with Python
 + **Instructor:** David J. Malan
@@ -12,7 +12,7 @@ Bem-vindo ao repositório Harvard CS50 Python Problem Sets! Este repositório co
 
 # Problem Sets
 
-Este repositório contém minhas soluções para os conjuntos de problemas de cada semana do curso. Aqui está uma lista dos conjuntos de problemas disponíveis:
+This repository contains my solutions to the problem sets from each week of the course. Here is a list of the available problem sets:
 
 + **Week 0:** Functions, Variables
 + **Week 1:** Conditionals

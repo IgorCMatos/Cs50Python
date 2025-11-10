@@ -1,26 +1,67 @@
+# 🐍 Harvard CS50 – Introduction to Programming with Python
 
-# Harvard CS50 Python Problem Sets
+Bem-vindo ao repositório **Harvard CS50 Python Problem Sets**!  
+Aqui estão minhas soluções dos *problem sets* do curso **CS50’s Introduction to Programming with Python**, oferecido pela **Harvard University** por meio da plataforma **edX**.
 
-Welcome to the Harvard CS50 Python Problem Sets repository! This repository contains my solutions to problem sets from CS50's Introduction to Computer Science using Python. This course is offered by Harvard University through edX.
+---
 
-# Course information
+![Status](https://img.shields.io/badge/status-concluindo-green)
+![Linguagem](https://img.shields.io/badge/language-Python-blue)
+![Plataforma](https://img.shields.io/badge/platform-edX-orange)
+![Licença](https://img.shields.io/badge/license-MIT-lightgrey)
+![Versão](https://img.shields.io/badge/version-2022--CS50-yellow)
 
-+ **Course Name:** CS50’s Introduction to Programming with Python
-+ **Instructor:** David J. Malan
-+ **Platform:** edX
-+ **Course URL:** [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+---
 
-# Problem Sets
+## 📘 Informações do Curso
 
-This repository contains my solutions to the problem sets from each week of the course. Here is a list of the available problem sets:
+- **Nome do Curso:** CS50’s Introduction to Programming with Python  
+- **Instrutor:** David J. Malan  
+- **Instituição:** Harvard University  
+- **Plataforma:** [edX](https://www.edx.org/)  
+- **URL Oficial:** [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)  
 
-+ **Week 0:** Functions, Variables
-+ **Week 1:** Conditionals
-+ **Week 2:** Loops
-+ **Week 3:** Exceptions
-+ **Week 4:** Libraries
-+ **Week 5:** Unit Tests
-+ **Week 6:** File I/O
-+ **Week 7:** Regular Expressions
-+ **Week 8:** Object-Oriented Programming
-+ **Week 9:** Et Cetera (Final Project)
+O curso apresenta os fundamentos da programação em Python, abordando desde lógica e estruturas básicas até tópicos mais avançados como expressões regulares e orientação a objetos.
+
+---
+
+## 🧠 Problem Sets
+
+Este repositório contém minhas implementações dos *problem sets* de cada semana.  
+Cada diretório contém os arquivos `.py` com soluções comentadas e testadas localmente.
+
+| Semana | Tópicos Principais | Descrição |
+|:------:|---------------------|------------|
+| **Week 0** | Functions, Variables | Introdução ao Python: variáveis, tipos, funções e sintaxe básica. |
+| **Week 1** | Conditionals | Estruturas condicionais e controle de fluxo (`if`, `elif`, `else`). |
+| **Week 2** | Loops | Estruturas de repetição (`for`, `while`) e iteração sobre coleções. |
+| **Week 3** | Exceptions | Tratamento de erros e exceções, uso de `try`/`except`. |
+| **Week 4** | Libraries | Importação e uso de bibliotecas padrão e externas do Python. |
+| **Week 5** | Unit Tests | Criação e execução de testes automatizados com `pytest` e `unittest`. |
+| **Week 6** | File I/O | Leitura e escrita de arquivos (`open`, `read`, `write`, `csv`). |
+| **Week 7** | Regular Expressions | Uso de regex com o módulo `re` para validação e busca de padrões. |
+| **Week 8** | Object-Oriented Programming | Conceitos de classes, objetos, herança e encapsulamento. |
+
+---
+
+## 💡 Tecnologias Utilizadas
+
+- **Python 3.10+**
+- **pytest / unittest**
+- **re (regex)**
+- **csv / json / os / sys**
+
+---
+
+## 📜 Licença
+
+Licenciado sob a [MIT License](./LICENSE).  
+Você é livre para usar e modificar o conteúdo, com os devidos créditos.
+
+---
+
+## 👨‍💻 Autor
+
+**Igor**  
+🌐 [GitHub](https://github.com/IgorCMatos)  
+💼 [LinkedIn](https://linkedin.com/in/igorcoderitch)
